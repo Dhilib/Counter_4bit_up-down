@@ -124,6 +124,7 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation 
 
 ## Fig 7: Compiled database in worklib
+![WhatsApp Image 2024-11-12 at 3 29 09 PM (2)](https://github.com/user-attachments/assets/332f14e7-77c9-4756-9389-d05071ac42c7)
 
 	After compilation it will come under worklib you can see in right side window
 
@@ -153,6 +154,7 @@ It contains statements that map logical library names to their physical director
 	After elaboration the file will come under snapshot. Select the test bench and simulate it. 
 
 ## Fig 8: Elaboration Launch Option
+![WhatsApp Image 2024-11-12 at 3 29 09 PM (2)](https://github.com/user-attachments/assets/fcbf4c3b-ab07-4690-abe9-aac5ab5433cc)
 
 ### Step 3: Simulation: – Simulate with the given test vectors over a period of time to observe the output behaviour. 
 
@@ -165,8 +167,10 @@ It contains statements that map logical library names to their physical director
 	Steps for simulation – Run the simulation command with simulator options
 
 ## Fig 9: Design Browser window for simulation
+![WhatsApp Image 2024-11-12 at 3 29 08 PM (4)](https://github.com/user-attachments/assets/cf918706-a9da-4591-9b1f-a0495036e40a)
 
 ## Fig 10: Simulation Waveform Window
+![WhatsApp Image 2024-11-12 at 3 29 09 PM (1)](https://github.com/user-attachments/assets/2ae34dc2-1756-4b75-83da-c52ec03f7d68)
 
-## Fig 11: Simulation Waveform Window
+
 
